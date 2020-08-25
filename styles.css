@@ -1,0 +1,51 @@
+
+body {
+  background-color: #2d4059;
+}
+
+.heading {
+  font-family: 'Pacifico', cursive;
+  font-size: 6rem;
+  text-align: center;
+  color: #32e0c4;
+
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  color: #a7e9af;
+}
+
+
+.super-div {
+  text-align: center;
+}
+
+.player-1 {
+  display: inline-block;
+  margin-right: 12rem;
+
+}
+
+.player-2 {
+  display: inline-block;
+}
+
+.result-txt {
+
+  display: inline-block;
+  text-align: center;
+  margin-top: 4rem;
+  font-family: 'Noto Sans HK', sans-serif;
+  color: #deff8b;
+
+}
+
+.party-popper-img {
+  width: 3rem;
+  height: 3rem;
+}
+
+.result-div {
+  text-align: center;
+}
